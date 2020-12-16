@@ -4,7 +4,9 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
       <router-link to="signup">Signup</router-link> |
+      <router-link to="/login">Login</router-link> |
       <router-link to="/projects">Projects</router-link> |
+      <router-link to="/posts/new">Make a new Post</router-link> 
     </div>
     <router-view/>
   </div>
